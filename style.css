@@ -59,6 +59,10 @@ a:hover{
     iframe{
         height: auto;
     }
+    section{
+        width: 80%;
+        margin: 0 auto;
+    }
 }
 footer {
     text-align: center;
